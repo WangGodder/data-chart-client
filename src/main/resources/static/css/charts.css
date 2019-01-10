@@ -1,0 +1,17 @@
+
+.canvasDir_class {
+    width: 45%;
+    margin: 2%;
+    padding: 1%;
+    border: black solid 1px;
+    display: inline-block;
+    color: gray;
+}
+
+.top_placeholder {
+    height: 50px;
+}
+
+.optionsDiv_class {
+    display: block;
+}

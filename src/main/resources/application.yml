@@ -1,0 +1,11 @@
+dataChart:
+  dataServerUrl: http://localhost:9666/
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 9966
